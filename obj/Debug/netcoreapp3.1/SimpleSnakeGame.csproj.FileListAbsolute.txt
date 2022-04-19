@@ -1,0 +1,14 @@
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\netcoreapp3.1\SimpleSnakeGame.exe
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\netcoreapp3.1\SimpleSnakeGame.deps.json
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\netcoreapp3.1\SimpleSnakeGame.runtimeconfig.json
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\netcoreapp3.1\SimpleSnakeGame.runtimeconfig.dev.json
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\netcoreapp3.1\SimpleSnakeGame.dll
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\netcoreapp3.1\SimpleSnakeGame.pdb
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\netcoreapp3.1\SimpleSnakeGame.csproj.AssemblyReference.cache
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\netcoreapp3.1\SimpleSnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\netcoreapp3.1\SimpleSnakeGame.AssemblyInfoInputs.cache
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\netcoreapp3.1\SimpleSnakeGame.AssemblyInfo.cs
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\netcoreapp3.1\SimpleSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\netcoreapp3.1\SimpleSnakeGame.dll
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\netcoreapp3.1\SimpleSnakeGame.pdb
+C:\Users\NEDJO\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\netcoreapp3.1\SimpleSnakeGame.genruntimeconfig.cache
